@@ -1,1 +1,1 @@
-Sitio web educativo para niños de primaria con tres minijuegos enfocados en el aprendizaje de operaciones basicas tales como sumas, restas, además de sucesiones numericas.
+Educational website for primary school children with three mini-games focused on learning basic operations such as addition, subtraction, pattern recognition, number sequences, and reading an analog clock.
